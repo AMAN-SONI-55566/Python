@@ -1,22 +1,13 @@
-
-# def main():                                     Defines the function.
-#     print("Hello, World!")
-#     name=input("enter your name:")
-#     print("nice to meet you", name )
-    
-# if __name__ == "__main__":                      Checks if the script is being run directly.
-#     main()
-
 # program to show basic data types in python 
 # int, float, str, bool, list, tuple, set, dict
-myint = 10
-myfloat = 20.5
-mystr = "Hello, World!"
-mybool = True
-mylist = [1, 2, 3, 4, 5]
-mytuple = (1, 2, 3, 4, 5)
-myset = {1, 2, 3, 4, 5}
-mydict = {"name": "John", "age": 30, "city": "New York"}
+myint = 10                                                # Integer
+myfloat = 20.5                                            # Float
+mystr = "Hello, World!"                                   # String
+mybool = True                                             # Boolean
+mylist = [1, 2, 3, 4, 5]                                  # List
+mytuple = (1, 2, 3, 4, 5)                                 # Tuple
+myset = {1, 2, 3, 4, 5}                                   # Set
+mydict = {"name": "John", "age": 30, "city": "New York"}  # Dictionary
 
 def main():
     print("Integer:", myint)
@@ -28,4 +19,4 @@ def main():
     print("Set:", myset)
     print("Dictionary:", mydict)
     
-    
+main() # When you call main() at the end, it executes the function and runs all the print() statements inside it.
