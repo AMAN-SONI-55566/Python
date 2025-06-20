@@ -1,0 +1,6 @@
+Use Python to calculate how many different passwords can be formed with 3 lower case English letters (excludes any character not found in the English alphabet).  For a 1 letter password, there would be 26 possibilities; one for every letter of the English alphabet.  For a 2 letter password, each letter is independent of the other, so there would be 26 times 26 possibilities. Using this information, print the amount of possible passwords that can be formed with 3 letters.
+
+# Enter code here:
+___
+
+# Should print 17576
