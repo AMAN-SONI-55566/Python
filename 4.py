@@ -20,3 +20,11 @@ print(4/2) #output will the value of mathematical expresion , 2.0
 # x**(1/2)   |     Square root (½) or (0.5) fractional exponent operator returns the square root of x
 # x // y     |     Floor division operator returns the integer part of the integer division of x by y
 # x % y      |     Modulo operator returns the remainder part of the integer division of x by y
+
+# The order of operations are to be calculated from left to right in the following order: 
+
+# Parentheses ( ), { }, [ ]
+# Exponents xy   (x**y)
+# Multiplication * and Division /  
+# Addition + and Subtraction -    
+#  You might find the PEMDAS mnemonic device to be helpful in remembering the order.   
