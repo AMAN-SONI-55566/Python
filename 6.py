@@ -1,4 +1,4 @@
-# Python Keywords and Their Descriptions:
+# Python Keywords and Their Descriptions:-
 
 # Keyword   | Description
 # ----------|----------------------------------------------
