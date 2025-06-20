@@ -1,0 +1,5 @@
+On a college campus, there are 30 computers in each of the 20 computer labs that are 
+spread across campus.  The computers have a life cycle where they are replaced every 
+five  years. One-fifth of the computers are replaced each year. 
+
+# Should print 120.0
