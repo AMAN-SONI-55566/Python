@@ -64,3 +64,12 @@ Namespaces are one honking great idea — let's do more of those!
 
 ---------------------------------------------------------------------------------------------------------
 
+Key takeaways
+1.Syntax and semantics are what give form and meaning to a language, including Python.  
+2.A large part of learning a new language is familiarizing yourself with its syntax and semantics. 
+3.Much of this comes through exposure and practice, but there are a few guiding principles and resources 
+  that can help you along the way. 
+4.If you learn the rules about naming objects and build a bank of resources that you can reference for guidance,
+  you’ll surely make progress as a Python learner. 
+5.As you get more familiar with Python, you’ll be able to communicate more efficiently with computers and do 
+  more with your data analysis tools!
