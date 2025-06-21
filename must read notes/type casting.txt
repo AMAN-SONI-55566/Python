@@ -1,0 +1,47 @@
+🛠️ What is Type Casting in Python?
+Type casting means converting a variable from one data type to another explicitly by the programmer.
+
+Python provides built-in functions to do this, such as:
+
+int() — convert to integer
+float() — convert to floating-point number
+str() — convert to string
+bool() — convert to boolean
+
+-----------------------------------------------------------------------------------------
+
+🔍 Why do we need type casting?
+To control data types when doing operations
+
+To convert input/output data to required format
+
+To avoid errors when mixing incompatible types
+
+-----------------------------------------------------------------------------------------
+
+🔄 How to do type casting?
+You use the type function like a wrapper around the value you want to convert.
+
+Example:
+
+num_str = "50"    # String
+num_int = int(num_str)   # Convert string to int
+print(num_int + 10)      # 60
+print(type(num_int))     # <class 'int'>
+
+float_num = float(num_int)  
+print(float_num)         # 50.0
+print(type(float_num))   # <class 'float'>
+
+bool_val = bool(0)       
+print(bool_val)          # False
+
+-----------------------------------------------------------------------------------------
+
+⚠️ Important Notes:
+Not all conversions are valid.
+
+For example, int("abc") will give an error because "abc" is not a number.
+
+Use type casting carefully to avoid ValueError.
+

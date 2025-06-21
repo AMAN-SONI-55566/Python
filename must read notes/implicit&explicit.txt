@@ -1,0 +1,35 @@
+Implicit & Explicit conversion 
+-----------------------------------------------------------------------------------------
+🔄 Implicit Type Conversion (Type Coercion)
+
+Done automatically by Python.
+Happens when mixing different types (e.g., int + float).
+No data loss or risk of error.
+
+Example :
+a = 5       # int
+b = 3.2     # float
+
+result = a + b  # Python converts 'a' to float automatically
+print(result)   # 8.2
+print(type(result))  # <class 'float'>
+
+-----------------------------------------------------------------------------------------
+🛠️Explicit Type Conversion (Type Casting)
+
+Done manually using functions like int(), float(), str(), etc.
+Required when you need to control the conversion.
+Can lead to data loss or errors if not used carefully.
+
+Example :
+x = "100"
+y = int(x)    # Explicitly converting string to int
+print(y + 20)  # 120
+
+Example of possible error :
+a = "abc"
+b = int(a)   # ❌ Error: invalid literal for int()
+
+❓ Why this happens:
+Python cannot understand how to turn the word "abc" into a number—because 
+it doesn’t contain digits like "123" would.
