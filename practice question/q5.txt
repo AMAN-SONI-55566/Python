@@ -1,0 +1,7 @@
+Use variables to store values
+
+Use basic arithmetic operators with variables to create expressions
+
+Use explicit conversion to change a data type from float to string
+
+-solution in s5

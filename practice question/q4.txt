@@ -1,0 +1,2 @@
+using the typing module to annotate the different types of variables.  
+-solution in s4

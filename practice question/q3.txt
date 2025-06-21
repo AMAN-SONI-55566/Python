@@ -10,3 +10,5 @@ total = 2048 + ___ + ___ + ___ + ___
 files = ___
 average = total / files
 print("___" + str(___))
+
+-solution in s3

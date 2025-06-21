@@ -1,0 +1,5 @@
+Output multiple string variables on a single line to form a sentence
+
+Use the plus (+) connector or a comma to connect strings in a print() function
+
+Create spaces between variables in  a print() function

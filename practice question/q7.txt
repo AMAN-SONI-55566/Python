@@ -1,0 +1,10 @@
+Resolve TypeError caused by a data type mismatch issue
+
+Use an explicit conversion function
+
+# The following code causes a type error between a string 
+# and an integer:
+
+print("5 * 3 = " + (5*3)) 
+
+

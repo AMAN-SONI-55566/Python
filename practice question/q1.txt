@@ -4,3 +4,5 @@ Use Python to calculate how many different passwords can be formed with 3 lower 
 ___
 
 # Should print 17576
+
+-solution in s1

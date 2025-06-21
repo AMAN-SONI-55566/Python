@@ -3,3 +3,5 @@ spread across campus.  The computers have a life cycle where they are replaced e
 five  years. One-fifth of the computers are replaced each year. 
 
 # Should print 120.0
+
+-solution in s2
