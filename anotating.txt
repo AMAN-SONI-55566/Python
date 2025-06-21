@@ -1,0 +1,18 @@
+In programming, when you annotate a variable, you tell the computer what type of data it holds.
+age: int = 25
+
+Here, : int is the annotation — it tells us age is an integer.
+It helps tools catch errors and makes your code easier to understand.
+-----------------------------------------------------------------------------------------------
+They don’t enforce types at runtime — Python won’t throw an error if the type is wrong 
+unless you use tools like mypy.
+
+-----------------------------------------------------------------------------------------------
+Functions can be annotated too:
+def greet(name: str) -> str:
+    return "Hello " + name
+This says: name should be a string, and the function returns a string.
+
+-----------------------------------------------------------------------------------------------
+Annotations improve collaboration, especially in big projects, because everyone knows 
+what type is expected.
