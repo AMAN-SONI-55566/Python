@@ -1,6 +1,6 @@
 # example we have 5000 sec 
 
-def convert_seconds(seconds):
+def convert_seconds_to_hms(seconds):
     # 1 hour = 3600 seconds
     # We use // instead / for division :- beacause it performs integer division (floor division), 
     # rounding down to the nearest whole number.
@@ -18,5 +18,5 @@ def convert_seconds(seconds):
     return hours, minutes, remaining_seconds
 
 # Example use
-hours, minutes, seconds = convert_seconds(5000)
+hours, minutes, seconds = convert_seconds_to_hms(5000)
 print(f"{hours} hour(s), {minutes} minute(s), {seconds} second(s)")
