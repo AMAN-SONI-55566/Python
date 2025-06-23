@@ -1,0 +1,7 @@
+Create an if-elif-else statement with: 
+
+a complex conditional statement using both comparison and logical operators
+
+values assigned to variables 
+
+arithmetic operators, including the modulo % operator
