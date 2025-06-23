@@ -1,0 +1,7 @@
+# Use a function with the def() keyword
+# Pass a parameter to the function
+# Use an if-elif-else block to set specific conditions for a variety of actions
+# Assign strings to variables 
+# Use comparison operators
+# Return a value
+# Call the function in a print statement and pass parameter to the function
